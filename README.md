@@ -1,2 +1,2 @@
-# Bowling
+# Bowling Scorer
 Bowling Scoring Application
